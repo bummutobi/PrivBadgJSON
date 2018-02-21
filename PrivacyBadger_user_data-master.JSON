@@ -61,6 +61,7 @@
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"authorize.coxmediagroup.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"ayads.co":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"bat.bing.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"bazaarvoice.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"beacon.deseretconnect.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"beacon.walmart.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"betrad.com":
@@ -281,6 +282,7 @@
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"realvu.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"rfihub.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"rfihub.net":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"richrelevance.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"rlcdn.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"roosterfirework.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"rpxnow.com":
@@ -371,7 +373,9 @@
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"disqus.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"disqusads.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"gstatic.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"google.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"googleapis.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"googleusercontent.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"livefyre.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"msn.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"nbcuni.com":               
