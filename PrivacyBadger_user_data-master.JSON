@@ -112,6 +112,7 @@
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"counter.scribblelive.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"counter.snackly.co":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"criteo.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"criteo.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"crwdcntrl.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"cse.google.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"csi.gstatic.com":
@@ -168,6 +169,7 @@
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"facebook.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"facebook.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"fallingfalcon.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"fancybar.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"fbcdn.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"fbsbx.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"fdlstatic.com":
@@ -176,6 +178,7 @@
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"foresee.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"fqtag.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"freegeoip.net":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"freestar.io":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"fullstory.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"fwmrm.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"gads.pubmatic.com":
@@ -280,6 +283,7 @@
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"plugin.mediavoice.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"pro-market.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"pubmatic.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"purch.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"pusher.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"pushwoosh.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"pushcrew.com":
@@ -323,6 +327,7 @@
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"sharethrough.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"simpli.fi":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"sitehelix.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"skimresources.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"spotxchange.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"sofia.trustx.org":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"sonobi.com":
@@ -376,15 +381,19 @@
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"whatcounts.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"vcmedia.vn":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"vidora.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"viglink.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"vilynx.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"yandex.ru":            
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"yldbt.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"zedo.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"zm232.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"},"zqtk.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"akamai.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"akamaihd.net":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"akamaized.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"anvato.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"anvato.net":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"azurewebsites.net":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"bbystatic.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"brightcove.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"brightcove.net":
@@ -412,6 +421,8 @@
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"univision.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"uvnimg.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"wistia.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"wordpress.com":
+{"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"wp.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"youtube.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_cookieblock"},"ytimg.com":
 {"dnt":false,"heuristicAction":"","nextUpdateTime":0,"userAction":"user_block"}},"settings_map":{"checkForDNTPolicy":true,"disabledSites":
